@@ -1,7 +1,7 @@
 # ok-smartcontracts
 OK Multi Chain - OK Smart Contracts
 
-## [OK] Okcash | Ethereum, Polygon and Avalanche Contract:
+## [OK] Okcash | Ethereum, Polygon, Avalanche, Arbitrum, Optimism and Fantom Contract:
 
 **0xd3Ac016b1B8C80EeAdDe4D186A9138C9324e4189**
 
