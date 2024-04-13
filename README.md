@@ -17,6 +17,11 @@ Okcash is committed to interoperability and flexibility in the decentralized wor
   - Contract Address: `0x523821d20a283d955f6205B4C9252779Cd0f964B`
   - This contract represents the BSC-wrapped version of Okcash, allowing for integration into the Binance Smart Chain DeFi landscape.
 
+- **Solana (SOL):**
+  - Contract Address: `HvPrYvgJiBtwUC7H4bi8L5bqnirFPWc2J9NdVy6UFiZm`
+  - Explore these contracts on respective blockchain explorers to interact or verify transactions. This allows for integration into most of the DeFi landscape.
+
+
 ## Exploring OK Smart Contracts
 
 Discover the functionalities and opportunities these contracts offer within their respective networks. Whether you're looking to integrate Okcash into your platform, participate in DeFi protocols, or simply explore the capabilities of OK in the multi-chain environment, this repository serves as your gateway.
