@@ -9,6 +9,10 @@ Welcome to the official repository for OK Smart Contracts, showcasing Okcash's e
 Okcash is committed to interoperability and flexibility in the decentralized world. Below are the contract addresses for Okcash (OK) on various blockchains, facilitating transactions, swaps, and participation in diverse DeFi ecosystems.
 
 ### Okcash (OK) Contracts
+- **Base:**
+  - Contract Address: `0x979584b07E1e14C7718C9FdaB2E35Bbb5fec2c59`
+  - Explore these contracts on respective blockchain explorers to interact or verify transactions. This allows for integration into most of the DeFi landscape.
+
 - **Ethereum, Polygon, Avalanche, Arbitrum, Optimism, and Fantom:**
   - Contract Address: `0xd3Ac016b1B8C80EeAdDe4D186A9138C9324e4189`
   - Explore these contracts on respective blockchain explorers to interact or verify transactions. This allows for integration into most of the DeFi landscape.
